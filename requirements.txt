@@ -14,7 +14,7 @@ importlib-metadata==4.10.0
 importlib-resources==5.4.0
 itsdangerous==2.0.1
 Jinja2==3.0.3
-Mako==1.1.6
+Mako==1.2.2
 MarkupSafe==2.0.1
 passlib==1.7.1
 psycopg2-binary==2.9.3
